@@ -1,0 +1,62 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "map_type": "stamen:toner-labels",
+        "slides": [
+            {
+                "date": "2023-10-20",
+                "location": {
+                    "line": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://th.bing.com/th/id/R.42d76866574b35274ec7a0f33c6d268d?rik=2nxpdI5QcyC%2fSQ&pid=ImgRaw&r=0"
+                },
+                "text": {
+                    "headline": "苏轼和他的美食地图",
+                    "text": "基于地图的交互叙事作品"
+                },
+                "type": "overview"
+            },
+            {
+                "date": "2013-10-20",
+                "location": {
+                    "lat": 39.98054016455432,
+                    "line": true,
+                    "lon": 116.29165649414062,
+                    "zoom": 10
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://cn.bing.com/images/search?q=%E7%BE%8A%E8%9D%8E%E5%AD%90%E5%9B%BE%E7%89%87&FORM=IQFRBA&id=4FE62FE0A794D304EA8706DC4833A17B95367E1D"
+                },
+                "text": {
+                    "headline": "羊蝎子",
+                    "text": "苏东坡后来被贬到惠州，当时的岭南是蛮荒地带，可他没有因为生活条件的艰苦而苦恼，而是像来到吃货天堂一样“日啖荔枝三百颗”，更是利用当地人不怎么感冒的羊的脊椎骨创造出了烤羊蝎子的“先进”吃法。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 19.52,
+                    "line": true,
+                    "lon": 109.58,
+                    "zoom": 8
+                },
+                "media": {
+                    "caption": "红烧肉",
+                    "credit": "",
+                    "url": "https://bucketdemo2023.oss-ap-southeast-1.aliyuncs.com/OIP.jpg"
+                },
+                "text": {
+                    "headline": "红烧肉",
+                    "text": "苏轼本身喜爱美食，也很喜欢吃猪肉，又见百姓盛情难却，于是收下肉食后又是以身卒之，亲自到厨房指点家人制成红烧肉，然后回赠给前来慰劳的百姓，百姓吃后都觉得此肉味醇汁浓、香糯而不腻口，一时赞不绝口，自此就有了“回赠肉”的说法。"
+                }
+            }
+        ]
+    }
+}
